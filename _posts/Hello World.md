@@ -2,7 +2,7 @@
 layout: post
 title: "This is a title"
 date: 2018-3-7
-image: '/assets/img/post-image.png'
+image: ''
 description: 'about tech'
 tags:
 - lorem
